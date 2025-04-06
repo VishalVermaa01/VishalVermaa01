@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=300&section=header&text=Vishal%20Verma&fontSize=60&fontAlignY=35&desc=Web%20%26%20Blockchain%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=300&section=header&text=Vishal%20Verma&fontSize=60&fontAlignY=35&%20&amp;%20Blockchain%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" alt="Banner"/>
 </div>
+
 
 <br />
 
@@ -45,7 +46,7 @@
 <h2 align="center">💡 Tech Stack</h2>
 <br />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,solidity,rust,react,tailwind,html,css,nodejs,express,hardhat,truffle,foundry,git,github,vscode,postman&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,html,css,python,cpp,docker,git,github,graphql,postgres,vscode,postman&perline=8" />
 </p>
 
 <br />
