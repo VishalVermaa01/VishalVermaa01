@@ -1,27 +1,105 @@
-# 💫 About Me:
-## Hey there, I am Vishal Verma
-A passionate Web and Blockchain Developer from India
-## About Me
-I love building clean, functional, and secure applications — whether it's on the web or the blockchain.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=300&section=header&text=Vishal%20Verma&fontSize=60&fontAlignY=35&desc=Web%20%26%20Blockchain%20Developer&descSize=22&descAlignY=55&animation=twinkling" width="100%" alt="Banner"/>
+</div>
 
-### Web3 Enthusiast | Smart Contract Wizard | Full-Stack Explorer
+<br />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_vishalvrma._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishalverma123/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:recruiser6@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6E5DE7&center=true&vCenter=true&random=false&width=600&lines=Web+%26+Blockchain+Developer;Full+Stack+Explorer;Smart+Contract+Wizard;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishalVermaa01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VishalVermaa01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalVermaa01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VishalVermaa01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishalVermaa01&style=for-the-badge&color=6E5DE7" alt="Profile Views"/>
+  <a href="https://github.com/VishalVermaa01?tab=followers">
+   <img src="https://img.shields.io/github/followers/VishalVermaa01?label=Followers&style=for-the-badge&color=6E5DE7" alt="Followers"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br />
 
----
-[![](https://visitcount.itsvg.in/api?id=VishalVermaa01&icon=0&color=13)](https://visitcount.itsvg.in)
+<h2 align="center">🚀 About Me</h2>
+<br />
+<p align="center">
+  💻 I love building clean, functional, and secure applications — whether it's on the web or the blockchain.<br />
+  🔗 Web3 Enthusiast | Smart Contract Wizard | Full-Stack Explorer<br />
+  🌱 Currently diving deeper into back-end development to unlock full-stack superpowers.<br />
+  🎯 Exploring Rust for blockchain, secure smart contract design, and Hardhat Ignition.<br />
+</p>
 
+<br />
+
+<h2 align="center">🤝 Collaboration Goals</h2>
+<br />
+<p align="center">
+  I’m eager to collaborate on:<br />
+  🔹 Innovative dApps<br />
+  🔹 Secure smart contracts<br />
+  🔹 Full-stack Web3 projects<br />
+  🔹 Anything that blends tech with creativity!<br />
+</p>
+
+<br />
+
+<h2 align="center">💡 Tech Stack</h2>
+<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,solidity,rust,react,tailwind,html,css,nodejs,express,hardhat,truffle,foundry,git,github,vscode,postman&perline=7"/>
+</p>
+
+<br />
+
+<h2 align="center">🛠️ Tools & Technologies</h2>
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardhat-2F2F2F?style=for-the-badge&logo=ethereum&logoColor=white" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/Truffle-3E2F63?style=for-the-badge&logo=ethereum&logoColor=white" alt="Truffle"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</p>
+
+<br />
+
+<h2 align="center">📊 GitHub Stats</h2>
+<br />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalVermaa01&theme=tokyonight"/>
+  <br /><br />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalVermaa01&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalVermaa01&theme=tokyonight"/>
+  <br /><br />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalVermaa01&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VishalVermaa01&theme=tokyonight&utcOffset=5.5"/>
+</div>
+
+<br />
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<br />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalVermaa01&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
+</p>
+
+<br />
+
+<h2 align="center">📬 Connect With Me</h2>
+<br />
+<p align="center">
+  <a href="mailto:recruiser6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishalverma123/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_vishalvrma._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&animation=twinkling" width="100%" alt="Footer"/>
+</div>
